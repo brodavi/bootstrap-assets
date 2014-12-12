@@ -1,9 +1,9 @@
 {
-  "name"       : "bootstrap-assets",
+  "name"       : "html-bootstrap-assets",
   "version"    : "2.3.2",
   "repository" : {
     "type" : "git",
-    "url"  : "git://github.com/brodavi/bootstrap-assets.git"
+    "url"  : "git://github.com/brodavi/html-bootstrap-assets.git"
   },
 
   "main": [
